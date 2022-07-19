@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_sword"
+    },
+ 
+    "overrides":[
+ 
+     {"predicate": {"custom_model_data":1}, "model":"item/elitemobs/gladius_sword"},
+     {"predicate": {"custom_model_data":2}, "model": "item/snopsnip/cursed_sword"},
+     {"predicate":{"custom_model_data":3},"model":"item/elitemobs/xiye_fb_01-1"},
+     {"predicate":{"custom_model_data":4},"model":"item/elitemobs/xiye_fb_04-2"}
+
+     ]
+}

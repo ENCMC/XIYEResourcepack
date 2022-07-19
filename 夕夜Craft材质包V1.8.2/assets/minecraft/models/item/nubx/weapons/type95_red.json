@@ -1,0 +1,9 @@
+{
+	"__comment": "Designed by Zachrywilsn with Cubik Studio - http://bdcraft.net",
+	"parent": "item/nubx/weapons/type95",
+    "textures": {
+        "particle":"nubx/nulls_dark_red",
+        "texture":"nubx/nulls_gray",
+        "nulls_light_black":"nubx/nulls_dark_red"
+	}
+}

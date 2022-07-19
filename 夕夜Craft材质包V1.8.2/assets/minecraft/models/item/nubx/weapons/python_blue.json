@@ -1,0 +1,9 @@
+{
+	"__comment": "Designed by Zachrywilsn with Cubik Studio - http://bdcraft.net",
+	"parent": "item/nubx/weapons/python",
+    "textures": {
+        "particle":"nubx/nulls_teal",
+        "texture":"nubx/nulls_gray",
+        "nulls_light_brown":"nubx/nulls_teal"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"__comment": "Designed by Zachrywilsn with Cubik Studio - http://bdcraft.net",
+	"parent": "item/nubx/weapons/cocopops",
+    "textures": {
+        "particle":"nubx/nulls_pink",
+        "texture":"nubx/nulls_light_black",
+        "nulls_white":"nubx/nulls_white",
+        "nulls_tan":"nubx/nulls_tan",
+        "nulls_dark_red":"nubx/nulls_dark_red"
+	}
+}

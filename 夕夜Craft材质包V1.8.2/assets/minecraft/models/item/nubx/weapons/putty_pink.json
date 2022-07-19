@@ -1,0 +1,9 @@
+{
+	"__comment": "Designed by Zachrywilsn with Cubik Studio - http://bdcraft.net",
+	"parent": "item/nubx/weapons/putty",
+    "textures": {
+        "particle":"nubx/nulls_pink",
+        "texture":"nubx/nulls_dark_red",
+        "nulls_white":"nubx/nulls_white"
+	}
+}
