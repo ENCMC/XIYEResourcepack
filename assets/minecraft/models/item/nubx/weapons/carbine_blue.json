@@ -1,0 +1,8 @@
+{
+	"__comment": "Designed by Zachrywilsn with Cubik Studio - http://bdcraft.net",
+	"parent": "item/nubx/weapons/carbine",
+    "textures": {
+        "particle":"nubx/nulls_teal",
+        "texture":"nubx/nulls_black"
+	}
+}

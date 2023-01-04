@@ -1,0 +1,24 @@
+name: release-artifacts
+
+on:
+  release:
+     types:
+       - published
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout repository
+        uses: actions/checkout@v3
+      - name: Archive Release
+        uses: thedoctor0/zip-release@master
+        with:
+          filename: "夕夜Craft材质包.zip"
+          exclusions: "*.git* *.yml"
+      - name: Upload Release
+        uses: AButler/upload-release-assets@v2.0
+        with:
+          files: '*.zip'
+          repo-token: ${{ secrets.GITHUB_TOKEN }}

@@ -1,8 +1,0 @@
-{
-	"__comment": "Designed by Zachrywilsn with Cubik Studio - http://bdcraft.net",
-	"parent": "item/nubx/weapons/grenade",
-    "textures": {
-        "particle":"nubx/nulls_light_gray",
-        "texture":"nubx/nulls_dark_red"
-	}
-}

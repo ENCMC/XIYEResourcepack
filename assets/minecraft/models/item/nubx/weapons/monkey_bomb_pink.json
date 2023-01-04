@@ -1,0 +1,8 @@
+{
+	"__comment": "Designed by Zachrywilsn with Cubik Studio - http://bdcraft.net",
+	"parent": "item/nubx/weapons/monkey_bomb",
+    "textures": {
+        "particle":"nubx/nulls_white",
+        "texture":"nubx/nulls_pink"
+	}
+}

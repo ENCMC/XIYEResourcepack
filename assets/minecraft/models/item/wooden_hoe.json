@@ -1,0 +1,591 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/wooden_hoe"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ -90, 0, -60 ],
+            "translation": [ 2, 0.1, -3 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -90, 0, 30 ],
+            "translation": [ 2, 0.1, -3 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -90, 0, -55 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ -90, 0, 35 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        }
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "pulling": 1
+            },
+            "model": "item/crossbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/crossbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1.0
+            },
+            "model": "item/crossbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "charged": 1
+            },
+            "model": "item/crossbow_arrow"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "firework": 1
+            },
+            "model": "item/crossbow_firework"
+        },
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "item/guns/akm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/aiming/akm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/guns/barrett"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "item/aiming/aiming"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "item/guns/deagle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "item/aiming/deagle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "item/guns/dmr"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "item/aiming/aiming"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "item/guns/doublebarrelshotgun"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "item/aiming/doublebarrelshotgun"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "item/guns/dragunov"
+    },    
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "item/aiming/aiming"
+    },    
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "item/guns/famas"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "item/aiming/famas"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "item/guns/fivesevenfive"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "item/aiming/fivesevenfive"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "item/guns/kar98k"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "item/aiming/kar98k"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "item/guns/m4a1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "item/aiming/m4a1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "item/guns/m16a2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "item/aiming/m16a2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "item/guns/m1014"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "item/aiming/m1014"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "item/guns/m1911"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "item/aiming/m1911"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 27
+      },
+      "model": "item/guns/mp5a5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "item/aiming/mp5a5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "item/guns/p90"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "item/aiming/p90"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "item/guns/qbz-95"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "item/aiming/qbz-95"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "item/guns/remington"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "item/aiming/remington"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "item/guns/revolver"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36
+      },
+      "model": "item/aiming/revolver"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37
+      },
+      "model": "item/guns/ump45"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 38
+      },
+      "model": "item/aiming/ump45"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "item/guns/uzi"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40
+      },
+      "model": "item/aiming/uzi"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41
+      },
+      "model": "item/aiming/scope_4x"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42
+      },
+      "model": "item/aiming/scope_holo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 43
+      },
+      "model": "item/aiming/scope_reddot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 44
+      },
+      "model": "item/attachments/scope_4x"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 45
+      },
+      "model": "item/attachments/scope_holo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 46
+      },
+      "model": "item/attachments/scope_reddot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 47
+      },
+      "model": "item/guns/akm_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 48
+      },
+      "model": "item/guns/akm_silver"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 49
+      },
+      "model": "item/guns/m4a1_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50
+      },
+      "model": "item/guns/m4a1_crimson"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 51
+      },
+      "model": "item/guns/m16a2_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 52
+      },
+      "model": "item/guns/m16a2_citrus"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 53
+      },
+      "model": "item/guns/famas_cyan"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 54
+      },
+      "model": "item/guns/famas_fade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 55
+      },
+      "model": "item/guns/qbz-95_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 56
+      },
+      "model": "item/guns/qbz-95_prismarine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 57
+      },
+      "model": "item/aiming/akm_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58
+      },
+      "model": "item/aiming/akm_silver"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 59
+      },
+      "model": "item/aiming/m4a1_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60
+      },
+      "model": "item/aiming/m4a1_crimson"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61
+      },
+      "model": "item/aiming/m16a2_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 62
+      },
+      "model": "item/aiming/m16a2_citrus"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 63
+      },
+      "model": "item/aiming/famas_cyan"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 64
+      },
+      "model": "item/aiming/famas_fade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 65
+      },
+      "model": "item/aiming/qbz-95_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 66
+      },
+      "model": "item/aiming/qbz-95_prismarine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 67
+      },
+      "model": "item/guns/barrett_classic"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 68
+      },
+      "model": "item/guns/barrett_premium"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 69
+      },
+      "model": "item/guns/dmr_goldvelvet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 70
+      },
+      "model": "item/guns/dmr_whitecamo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 71
+      },
+      "model": "item/guns/dragunov_blood"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 72
+      },
+      "model": "item/guns/dragunov_noir"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 73
+      },
+      "model": "item/guns/kar98k_blue-streak"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 74
+      },
+      "model": "item/guns/kar98k_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 75
+      },
+      "model": "item/aiming/kar98k_blue-streak"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 76
+      },
+      "model": "item/aiming/kar98k_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 77
+      },
+      "model": "item/guns/doublebarrelshotgun_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 78
+      },
+      "model": "item/guns/doublebarrelshotgun_metal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 79
+      },
+      "model": "item/guns/m1014_camo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 80
+      },
+      "model": "item/guns/m1014_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 81
+      },
+      "model": "item/guns/remington_mint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 82
+      },
+      "model": "item/guns/remington_modern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 83
+      },
+      "model": "item/aiming/doublebarrelshotgun_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 84
+      },
+      "model": "item/aiming/doublebarrelshotgun_metal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 85
+      },
+      "model": "item/aiming/m1014_camo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 86
+      },
+      "model": "item/aiming/m1014_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 87
+      },
+      "model": "item/aiming/remington_mint"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 88
+      },
+      "model": "item/aiming/remington_modern"
+    }
+	]
+}

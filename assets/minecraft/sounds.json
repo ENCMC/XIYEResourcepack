@@ -1,0 +1,144 @@
+{"deagle_shoot":{
+	"category":"player",
+	"sounds":["deagle_shoot"]},
+	
+"noammo_click":{
+	"category":"player",
+	"sounds":["noammo_click"]},
+	
+"pistol_shoot":{
+	"category":"player",
+	"sounds":["pistol_shoot"]},
+
+"reload_ak47":{
+	"category":"player",
+	"sounds":["reload_ak47"]},
+	
+"reload2_ak47":{
+	"category":"player",
+	"sounds":["reload2_ak47"]},
+
+"reload_bullet":{
+	"category":"player",
+	"sounds":["reload_bullet"]},
+
+"reload_bulletin":{
+	"category":"player",
+	"sounds":["reload_bulletin"]},
+	
+"reload_m16":{
+	"category":"player",
+	"sounds":["reload_m16"]},
+	
+"reload_magout":{
+	"category":"player",
+	"sounds":["reload_magout"]},
+	
+"reload_rifleslide":{
+	"category":"player",
+	"sounds":["reload_rifleslide"]},
+
+"reload_shell":{
+	"category":"player",
+	"sounds":["reload_shell"]},
+	
+"reload_shotgun":{
+	"category":"player",
+	"sounds":["reload_shotgun"]},
+
+"reload_smallbullet":{
+	"category":"player",
+	"sounds":["reload_smallbullet"]},
+
+"reload_smgslide":{
+	"category":"player",
+	"sounds":["reload_smgslide"]},
+	
+"reload_sniper1":{
+	"category":"player",
+	"sounds":["reload_sniper1"]},
+
+"reload_sniper2":{
+	"category":"player",
+	"sounds":["reload_sniper2"]},
+	
+"rifle_loud":{
+	"category":"player",
+	"sounds":["rifle_loud"]},
+
+"rifle_medium":{
+	"category":"player",
+	"sounds":["rifle_medium"]},
+	
+"rifle_soft":{
+	"category":"player",
+	"sounds":["rifle_soft"]},
+
+"rifle_veryloud":{
+	"category":"player",
+	"sounds":["rifle_veryloud"]},
+	
+"scope_end":{
+	"category":"player",
+	"sounds":["scope_end"]},
+	
+"scope_start":{
+	"category":"player",
+	"sounds":["scope_start"]},
+	
+"shotgun_shoot":{
+	"category":"player",
+	"sounds":["shotgun_shoot"]},
+
+"smg_shoot":{
+	"category":"player",
+	"sounds":["smg_shoot"]},
+	
+"sniper_loud":{
+	"category":"player",
+	"sounds":["sniper_loud"]},
+
+"sniper_medium":{
+	"category":"player",
+	"sounds":["sniper_medium"]},
+
+"sniper_silenced":{
+	"category":"player",
+	"sounds":["sniper_silenced"]},
+
+"headshot":{
+	"category":"player",
+	"sounds":["headshot"]},
+
+"hitmarker":{
+	"category":"player",
+	"sounds":["hitmarker"]},
+
+"fireinthehole":{
+	"category":"player",
+	"sounds":["fireinthehole"]},
+
+"reload_magin":{
+	"category":"player",
+	"sounds":["reload_magin"]},
+
+"rifle_type95":{
+	"category":"player",
+	"sounds":["rifle_type95"]},
+
+"reload_click":{
+	"category":"player",
+	"sounds":["reload_click"]},
+	
+"reload_magout2":{
+	"category":"player",
+	"sounds":["reload_magout2"]},	
+
+"flashbang":{
+	"category":"player",
+	"sounds":["flashbang"]},	
+	
+"sniper_soft":{
+	"category":"player",
+	"sounds":["sniper_soft"]},
+"shoot.ak":{"category":"player","sounds":["shoot/ak"]},"shoot.bazooka":{"category":"player","sounds":["shoot/bazooka"]},"shoot.carbine":{"category":"player","sounds":["shoot/carbine"]},"shoot.gauss":{"category":"player","sounds":["shoot/gauss"]},"shoot.hunting":{"category":"player","sounds":["shoot/hunting"]},"shoot.hunting_silenced":{"category":"player","sounds":["shoot/hunting_silenced"]},"shoot.olympia":{"category":"player","sounds":["shoot/olympia"]},"shoot.python":{"category":"player","sounds":["shoot/python"]},"shoot.type95":{"category":"player","sounds":["shoot/type95"]},"shoot.deserteagle":{"category":"player","sounds":["shoot/deserteagle"]},"scope.end_scope":{"category":"player","sounds":["scope/end_scope"]},"scope.start_scope":{"category":"player","sounds":["scope/start_scope"]}}
