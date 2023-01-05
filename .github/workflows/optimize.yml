@@ -2,6 +2,8 @@ name: optimize-PNG-files
 
 on:
   push:
+    branches:
+      - main
     paths:
       - '**/*.png'
 
