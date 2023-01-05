@@ -2,7 +2,7 @@
    "textures":	{
         "updown": "block/mushroom_block_inside",
         "side": "block/mushroom_stem",
-        "particle": "block/light_gray_concrete"
+        "particle": "block/mushroom_stem"
 				},
    "elements": [
         {   "from": [ 0, 0, 0 ],
