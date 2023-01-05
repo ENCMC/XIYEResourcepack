@@ -1,6 +1,7 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "block/custom/004"
+        "all": "block/custom/004",
+        "particle": "block/custom/004"
     }
 }
