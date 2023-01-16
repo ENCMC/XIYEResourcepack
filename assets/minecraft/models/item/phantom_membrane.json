@@ -144,48 +144,6 @@
     },
     {
       "predicate": {
-        "custom_model_data": 24
-      },
-      "model": "item/ammo/ammo"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 25
-      },
-      "model": "item/ammo/ammo_9mm"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 26
-      },
-      "model": "item/ammo/ammo_12gauge"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 27
-      },
-      "model": "item/ammo/ammo_45acp"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 28
-      },
-      "model": "item/ammo/ammo_50cal"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 29
-      },
-      "model": "item/ammo/ammo_556mm"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 30
-      },
-      "model": "item/ammo/762mm"
-    },
-    {
-      "predicate": {
         "custom_model_data": 31
       },
       "model": "item/explosives/flashbang"
