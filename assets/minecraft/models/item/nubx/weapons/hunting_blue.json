@@ -1,9 +1,0 @@
-{
-	"__comment": "Designed by Zachrywilsn with Cubik Studio - http://bdcraft.net",
-	"parent": "item/nubx/weapons/hunting",
-    "textures": {
-        "particle":"nubx/nulls_gray",
-        "texture":"nubx/nulls_teal",
-        "nulls_glass_aqua":"nubx/nulls_glass_aqua"
-	}
-}

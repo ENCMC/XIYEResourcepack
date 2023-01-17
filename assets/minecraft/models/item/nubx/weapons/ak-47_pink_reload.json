@@ -1,7 +1,0 @@
-{
-	"__comment": "Designed by Zachrywilsn with Cubik Studio - http://bdcraft.net",
-	"parent": "item/nubx/weapons/ak-47_reload",
-	"textures": {
-		"main": "nubx/guns/ak-47_pink_reload"
-	}
-}

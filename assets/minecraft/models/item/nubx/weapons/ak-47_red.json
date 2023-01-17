@@ -1,8 +1,0 @@
-{
-	"__comment": "Designed by Zachrywilsn with Cubik Studio - http://bdcraft.net",
-	"parent": "item/nubx/weapons/ak-47",
-	"textures": {
-		"particle": "nubx/guns/ak-47_red",
-		"texture": "nubx/guns/ak-47_red"
-	}
-}
